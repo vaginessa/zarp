@@ -1,4 +1,4 @@
 Flask==0.10.1
 netlib==0.11.1
-paramiko==1.15.2
+paramiko==2.0.9
 pyOpenSSL==0.13.1
